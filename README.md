@@ -2,9 +2,9 @@
 <img src="https://raw.githubusercontent.com/jgsneves/goStackModulo1Backend/master/gostack_rocketseat.png" />
 </div>
 
-# Back-end com NodeJS e Typescript
+# Back-end com NodeJS e Data Base
 
-Este repositório tem o objetivo de consolidar o conhecimento adquirido na aula "Back-end com NodeJS e Typescript" do Módulo 02 do bootcamp GoStack da Rocketseat
+Mesmo respositório da aula "Back-end com NodeJS e Typescript" do Módulo 02 do bootcamp GoStack da Rocketseat mas desta vez implementando um Banco de Dados PostgresSQL.
 
 
 ## :memo: O que é este repo?
