@@ -1,9 +1,9 @@
 import {
-    Entity,
-    Column,
-    PrimaryGeneratedColumn,
-    CreateDateColumn,
-    UpdateDateColumn,
+  Entity,
+  Column,
+  PrimaryGeneratedColumn,
+  CreateDateColumn,
+  UpdateDateColumn,
 } from 'typeorm';
 
 @Entity('users')
@@ -19,9 +19,6 @@ class User {
 
     @Column()
     password: string;
-
-    @Column('time with time zone')
-    date: Date;
 
     @CreateDateColumn()
     created_at: Date;
